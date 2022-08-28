@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cqWmaGKygg4YUBP11yIh2ajxOTwfKuP5ODPkfdsulEQ=",
+  "Source": "BackGroundJobSample",
+  "BasePath": "_content/BackGroundJobSample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
