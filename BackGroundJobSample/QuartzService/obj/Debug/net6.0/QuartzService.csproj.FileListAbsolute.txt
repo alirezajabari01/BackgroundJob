@@ -1,0 +1,15 @@
+D:\MyGitHubProject\BackGroundJobSample\QuartzService\bin\Debug\net6.0\QuartzService.deps.json
+D:\MyGitHubProject\BackGroundJobSample\QuartzService\bin\Debug\net6.0\QuartzService.dll
+D:\MyGitHubProject\BackGroundJobSample\QuartzService\bin\Debug\net6.0\QuartzService.pdb
+D:\MyGitHubProject\BackGroundJobSample\QuartzService\bin\Debug\net6.0\Domain.dll
+D:\MyGitHubProject\BackGroundJobSample\QuartzService\bin\Debug\net6.0\Domain.pdb
+D:\MyGitHubProject\BackGroundJobSample\QuartzService\obj\Debug\net6.0\QuartzService.csproj.AssemblyReference.cache
+D:\MyGitHubProject\BackGroundJobSample\QuartzService\obj\Debug\net6.0\QuartzService.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGitHubProject\BackGroundJobSample\QuartzService\obj\Debug\net6.0\QuartzService.AssemblyInfoInputs.cache
+D:\MyGitHubProject\BackGroundJobSample\QuartzService\obj\Debug\net6.0\QuartzService.AssemblyInfo.cs
+D:\MyGitHubProject\BackGroundJobSample\QuartzService\obj\Debug\net6.0\QuartzService.csproj.CoreCompileInputs.cache
+D:\MyGitHubProject\BackGroundJobSample\QuartzService\obj\Debug\net6.0\QuartzService.csproj.CopyComplete
+D:\MyGitHubProject\BackGroundJobSample\QuartzService\obj\Debug\net6.0\QuartzService.dll
+D:\MyGitHubProject\BackGroundJobSample\QuartzService\obj\Debug\net6.0\refint\QuartzService.dll
+D:\MyGitHubProject\BackGroundJobSample\QuartzService\obj\Debug\net6.0\QuartzService.pdb
+D:\MyGitHubProject\BackGroundJobSample\QuartzService\obj\Debug\net6.0\ref\QuartzService.dll

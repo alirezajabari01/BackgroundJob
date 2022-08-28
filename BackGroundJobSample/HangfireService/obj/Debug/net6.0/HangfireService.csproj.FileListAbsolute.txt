@@ -1,0 +1,15 @@
+D:\MyGitHubProject\BackGroundJobSample\HangfireService\bin\Debug\net6.0\HangfireService.deps.json
+D:\MyGitHubProject\BackGroundJobSample\HangfireService\bin\Debug\net6.0\HangfireService.dll
+D:\MyGitHubProject\BackGroundJobSample\HangfireService\bin\Debug\net6.0\HangfireService.pdb
+D:\MyGitHubProject\BackGroundJobSample\HangfireService\bin\Debug\net6.0\Domain.dll
+D:\MyGitHubProject\BackGroundJobSample\HangfireService\bin\Debug\net6.0\Domain.pdb
+D:\MyGitHubProject\BackGroundJobSample\HangfireService\obj\Debug\net6.0\HangfireService.csproj.AssemblyReference.cache
+D:\MyGitHubProject\BackGroundJobSample\HangfireService\obj\Debug\net6.0\HangfireService.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGitHubProject\BackGroundJobSample\HangfireService\obj\Debug\net6.0\HangfireService.AssemblyInfoInputs.cache
+D:\MyGitHubProject\BackGroundJobSample\HangfireService\obj\Debug\net6.0\HangfireService.AssemblyInfo.cs
+D:\MyGitHubProject\BackGroundJobSample\HangfireService\obj\Debug\net6.0\HangfireService.csproj.CoreCompileInputs.cache
+D:\MyGitHubProject\BackGroundJobSample\HangfireService\obj\Debug\net6.0\HangfireService.csproj.CopyComplete
+D:\MyGitHubProject\BackGroundJobSample\HangfireService\obj\Debug\net6.0\HangfireService.dll
+D:\MyGitHubProject\BackGroundJobSample\HangfireService\obj\Debug\net6.0\refint\HangfireService.dll
+D:\MyGitHubProject\BackGroundJobSample\HangfireService\obj\Debug\net6.0\HangfireService.pdb
+D:\MyGitHubProject\BackGroundJobSample\HangfireService\obj\Debug\net6.0\ref\HangfireService.dll

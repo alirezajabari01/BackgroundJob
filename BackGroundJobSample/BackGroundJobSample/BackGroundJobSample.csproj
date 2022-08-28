@@ -11,4 +11,11 @@
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Domain\Domain.csproj" />
+      <ProjectReference Include="..\HangfireService\HangfireService.csproj" />
+      <ProjectReference Include="..\Hosted\Hosted.csproj" />
+      <ProjectReference Include="..\QuartzService\QuartzService.csproj" />
+    </ItemGroup>
+
 </Project>
